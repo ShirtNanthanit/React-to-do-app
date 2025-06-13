@@ -4,4 +4,4 @@ ToDo App using React js and vite
 
 ## Features
 
-- Add, Edit,Delet tasks
+- Add, Edit,Delete tasks
